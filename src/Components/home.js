@@ -12,8 +12,7 @@ export default function Home() {
             <div className="col-md-12 text-center">
               <div className="header-text">
                 <h2>
-                  hi <span>,</span> i am <br /> Leki Emmanuel <br /> star{" "}
-                  <span>.</span>{" "}
+                  hi <span>,</span> i am <br /> Leki Emmanuel <br /> 
                 </h2>
                 <p>web developer and ui/ux designer </p>
               </div>
