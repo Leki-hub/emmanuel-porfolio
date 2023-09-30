@@ -16,9 +16,9 @@ export default function Education() {
               <div className="col-sm-4">
                 <div className="single-horizontal-timeline">
                   <div className="experience-time">
-                    <h2>2008 - 2010</h2>
+                    <h2>2017 - 2021</h2>
                     <h3>
-                      master <span>of </span> computer science
+                      Barchelor <span>in </span> Actuarial Science
                     </h3>
                   </div>
                   <div className="timeline-horizontal-border">
@@ -28,13 +28,16 @@ export default function Education() {
                   <div className="timeline">
                     <div className="timeline-content">
                       <h4 className="title">
-                        university of north carolina
+                        The Catholic University
                       </h4>
-                      <h5>north carolina, USA</h5>
+                      <h5>Eastern Africa, Kenya</h5>
                       <p className="description">
-                        Duis aute irure dolor in reprehenderit in vol patate
-                        velit esse cillum dolore eu fugiat nulla pari. Excepteur
-                        sint occana inna tecat cupidatat non proident.
+                        I graduated with a Bachelor of science in Actuarial science.
+                        The course is mainly about mathematical computations , with
+                        some focus on programming.
+                       I happened to have learned about <b>C</b> programming 
+                       and <b>R</b> programming language for data science.
+                      
                       </p>
                     </div>
                   </div>
@@ -43,9 +46,9 @@ export default function Education() {
               <div className="col-sm-4">
                 <div className="single-horizontal-timeline">
                   <div className="experience-time">
-                    <h2>2004 - 2008</h2>
+                    <h2>2020 - 2021</h2>
                     <h3>
-                      bachelor <span>of </span> computer science
+                      Certificate <span>in </span> Enterpise Systems Management.
                     </h3>
                   </div>
                   <div className="timeline-horizontal-border">
@@ -55,13 +58,15 @@ export default function Education() {
                   <div className="timeline">
                     <div className="timeline-content">
                       <h4 className="title">
-                        university of north carolina
+                        university of California
                       </h4>
-                      <h5>north carolina, USA</h5>
+                      <h5>California, USA</h5>
                       <p className="description">
-                        Duis aute irure dolor in reprehenderit in vol patate
-                        velit esse cillum dolore eu fugiat nulla pari. Excepteur
-                        sint occana inna tecat cupidatat non proident.
+                       I undertook an online course in managing project risks, as well as 
+                       Enterprise Systems Management.
+                       I wanted to understand on developing and implementing  secure digital systems
+                       in an organization.
+                       All with accredited certifications.
                       </p>
                     </div>
                   </div>
@@ -70,9 +75,9 @@ export default function Education() {
               <div className="col-sm-4">
                 <div className="single-horizontal-timeline">
                   <div className="experience-time">
-                    <h2>2004 - 2008</h2>
+                    <h2>2022 - 2023</h2>
                     <h3>
-                      bachelor <span>of </span> creative design
+                    Frontend <span>and </span> web development
                     </h3>
                   </div>
                   <div className="timeline-horizontal-border">
@@ -84,13 +89,12 @@ export default function Education() {
                   </div>
                   <div className="timeline">
                     <div className="timeline-content">
-                      <h4 className="title">university of bolton</h4>
-                      <h5>bolton, united kingdome</h5>
+                      <h4 className="title">ALX Bootcamp</h4>
+                      <h5>Africa, Kenya</h5>
                       <p className="description">
-                        Duis aute irure dolor in reprehenderit in vol patate
-                        velit esse cillum dolore eu fugiat nulla pari. Excepteur
-                        sint occana inna tecat cupidatat non proident.
-                      </p>
+                       I enrolled for 9 months  software engineering in ALX bootcamp, 
+                       ALX bootcamp provides foundation in diverse fields in Computer science.
+                       The program is designed by a team of experienced developers </p>
                     </div>
                   </div>
                 </div>
