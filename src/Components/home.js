@@ -111,7 +111,8 @@ export default function Home() {
         </div>
       </section>
       <Education/>
-     
+      <Experience/>
+      <Profile/>
     </>
   );
 }
