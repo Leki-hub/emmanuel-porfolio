@@ -12,12 +12,6 @@ export default function Footer() {
 				</div>
 			</div>
 
-			<div id="scroll-Top">
-				<div className="return-to-top">
-					<i className="fa fa-angle-up " id="scroll-top" ></i>
-				</div>
-				
-			</div>
         </footer>
     
     </>
