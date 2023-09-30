@@ -15,7 +15,7 @@ export default function Home() {
                   hi <span>,</span> i am <br /> Leki Emmanuel <br /> star{" "}
                   <span>.</span>{" "}
                 </h2>
-                <p>ui/ux designer and web developer</p>
+                <p>web developer and ui/ux designer </p>
               </div>
             </div>
           </div>
@@ -51,19 +51,19 @@ export default function Home() {
                     <div className="col-sm-4">
                       <div className="single-about-add-info">
                         <h3>phone</h3>
-                        <p>987-123-6547</p>
+                        <p>+254-784-810-509</p>
                       </div>
                     </div>
                     <div className="col-sm-4">
                       <div className="single-about-add-info">
                         <h3>email</h3>
-                        <p>browny@info.com</p>
+                        <p>lekisintole82@gmail.com</p>
                       </div>
                     </div>
                     <div className="col-sm-4">
                       <div className="single-about-add-info">
                         <h3>website</h3>
-                        <p>www.brownsine.com</p>
+                        <p>www.lekiemmanuel.com</p>
                       </div>
                     </div>
                   </div>
