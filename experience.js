@@ -67,9 +67,9 @@ export default function Experience() {
                                         <div className="experience-time">
                                             <h2>
                                                 <span><i className="fa fa-circle" aria-hidden="true"></i></span>
-                                                2016 - 2018
+                                                2022 - 2023
                                             </h2>
-                                            <h3>associate design director</h3>
+                                            <h3>Custormer Care Support</h3>
                                         </div>
                                     </div>
                                 </div>
