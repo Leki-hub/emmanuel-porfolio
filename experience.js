@@ -53,11 +53,11 @@ export default function Experience() {
                 <li>
                   <div className="single-timeline-box fix">
                     <div className="row">
-                      <div class="col-md-offset-1 col-md-5 experience-time-responsive">
-                        <div class="experience-time">
+                      <div className="col-md-offset-1 col-md-5 experience-time-responsive">
+                        <div className="experience-time">
                           <h2>
                             <span>
-                              <i class="fa fa-circle" aria-hidden="true"></i>
+                              <i className="fa fa-circle" aria-hidden="true"></i>
                             </span>
                             2022
                           </h2>
