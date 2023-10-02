@@ -2,6 +2,15 @@ import React from "react";
 import Footer from "./footer";
 
 export default function Education() {
+  const progressBarStyle = {
+    background: '#b636ff',
+    borderRadius: '3px',
+    WebkitTransition: 'width 1.5s ease-in-out',
+    MsTransition: 'width 1.5s ease-in-out',
+    MozTransition: 'width 1.5s ease-in-out',
+    OTransition: 'width 1.5s ease-in-out',
+    transition: 'width 1.5s ease-in-out'
+  };
 
 
   return (
@@ -122,7 +131,7 @@ export default function Education() {
                           aria-valuenow="90"
                           aria-valuemin="10"
                           aria-valuemax="100"
-                        //   style={""}
+                          style={progressBarStyle}
                         ></div>
                       </div>
                       <h3>90%</h3>
