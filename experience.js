@@ -17,7 +17,7 @@ export default function Experience() {
                                     <div className="col-md-5">
                                         <div className="experience-time text-right">
                                             <h2>2023 - Present</h2>
-                                            <h3>FrontEnd Developer</h3>
+                                            <h3>FrontEnd Web Developer</h3>
                                         </div>
                                     </div>
                                     <div className="col-md-offset-1 col-md-5">
