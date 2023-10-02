@@ -41,7 +41,7 @@ export default function Experience() {
                         <li>
                             <div className="single-timeline-box fix">
                                 <div className="row">
-                                    <div className="col-md-offset-1 col-md-5 experience-time-responsive">
+                                    {/* <div className="col-md-offset-1 col-md-5 experience-time-responsive">
                                         <div className="experience-time">
                                             <h2>
                                                 <span><i className="fa fa-circle" aria-hidden="true"></i></span>
@@ -49,12 +49,12 @@ export default function Experience() {
                                             </h2>
                                             <h3>ALX Bootcamp</h3>
                                         </div>
-                                    </div>
+                                    </div> */}
                                     <div className="col-md-5">
                                         <div className="timeline">
                                             <div className="timeline-content text-right">
                                                 <h4 className="title">
-                                                    Solar Panda Limited
+                                                ALX Bootcamp
                                                 </h4>
                                                 <h5>Kenya, Nairobi</h5>
                                                 <p className="description">
@@ -67,9 +67,9 @@ export default function Experience() {
                                         <div className="experience-time">
                                             <h2>
                                                 <span><i className="fa fa-circle" aria-hidden="true"></i></span>
-                                                2022 - 2023
+                                                2022
                                             </h2>
-                                            <h3>Custormer Care Support</h3>
+                                            <h3>Software development Trainee</h3>
                                         </div>
                                     </div>
                                 </div>
