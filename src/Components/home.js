@@ -40,9 +40,9 @@ export default function Home() {
                   <p>
                     Technology's impact on web development is profound and
                     ever-evolving. It has revolutionized the way websites are
-                    created, deployed, and experienced. Web development, the art
+                    created, deployed, and experienced.<br/> Web development, the art
                     of crafting digital worlds, where code weaves dreams and
-                    user experience unfurls. HTML, CSS, JavaScript's dance.
+                    user experience unfurls. HTML, CSS and JavaScript dance.
                     <br/>
                     ReactJS and NodeJs technologies have helped shape how
                     people think about design and develop their ideas into
