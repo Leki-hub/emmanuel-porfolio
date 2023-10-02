@@ -35,10 +35,13 @@ export default function Experience() {
                             </h4>
                             <h5>Kenya, Nairobi</h5>
                             <p className="description">
-                              Duis aute irure dolor in reprehenderit in vol
-                              patate velit esse cillum dolore eu fugiat nulla
-                              pari. Excepteur sint occana inna tecat cupidatat
-                              non proident.
+                              TechMpigo is a community of software engineers,
+                              who are passionate about technology and sharing
+                              their knowledge. We help each other to learn new
+                              technologies by creating projects that can be used
+                              as learning material.One of start ups is Grise System Solutions
+                              that digitizes restaurant operations.<br/>
+                              I am currently working on the front end web.
                             </p>
                           </div>
                         </div>
@@ -67,10 +70,12 @@ export default function Experience() {
                             <h4 className="title">ALX Bootcamp</h4>
                             <h5>Kenya, Nairobi</h5>
                             <p className="description">
-                              Duis aute irure dolor in reprehenderit in vol
-                              patate velit esse cillum dolore eu fugiat nulla
-                              pari. Excepteur sint occana inna tecat cupidatat
-                              non proident.
+                              Software development training at ALX Bootcamp
+                              provided me with skills that I've used to offer
+                              freelance solutions in web design and web
+                              development.
+                              To gain more experience, I collaborated with other 
+                              developers from different countries to build apps.
                             </p>
                           </div>
                         </div>
@@ -116,9 +121,11 @@ export default function Experience() {
                             </h4>
                             <h5>Nairobi, Kenya</h5>
                             <p className="description">
-                              Solar Panda Limited is a company that provides lighting
-                              solutions to rural and urban centers in Kenya.
-                              Employed  as assistant Custormer care, providing ideas on designing products to marketing.
+                              Solar Panda Limited is a company that provides
+                              lighting solutions to rural and urban centers in
+                              Kenya. Employed as assistant Custormer care,
+                              providing ideas on designing products to
+                              marketing.
                             </p>
                           </div>
                         </div>
