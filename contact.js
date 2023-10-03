@@ -63,15 +63,17 @@ export default function Contact() {
 									<div className="contact-add-info">
 										<div className="single-contact-add-info">
 											<h3>phone</h3>
-											<p>+244784810509</p>
+											<p><a href="tel:+254784810509">Call Us</a></p>
+
 										</div>
 										<div className="single-contact-add-info">
-											<h3>email</h3>
-											<p>lekisintole82@gmail.com</p>
+										    <p>Email</p>
+											<a href="mailto:lekisintole82@gmail.com"><i>Send Email</i></a>
+
 										</div>
 										<div className="single-contact-add-info">
 											<h3>website</h3>
-											<p>www.leki.com</p>
+											<p><a href=''>www.leki.com</a></p>
 										</div>
 									</div>
 								</div>
