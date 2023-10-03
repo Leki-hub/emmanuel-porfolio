@@ -1,5 +1,4 @@
 import React from "react";
-import Footer from "./footer";
 
 export default function Profile() {
   return (
@@ -15,17 +14,17 @@ export default function Profile() {
                 <div className="col-sm-3">
                   <div className="single-profile">
                     <div className="profile-txt">
-                      <a href="">
-                        <i className="flaticon-dribbble"></i>
+                      <a href="https://www.linkedin.com/in/leki-emmanuel-8b7540157/" target="_blank">
+                        <i className="fa fa-linkedin"></i>
                       </a>
-                      <div className="profile-icon-name">dribbble</div>
+                      <div className="profile-icon-name">Linkedin</div>
                     </div>
                     <div className="single-profile-overlay">
                       <div className="profile-txt">
-                        <a href="">
-                          <i className="flaticon-dribbble"></i>
+                        <a href="https://www.linkedin.com/in/leki-emmanuel-8b7540157/" target="_blank">
+                          <i className="fa fa-linkedin"></i>
                         </a>
-                        <div className="profile-icon-name">dribbble</div>
+                        <div className="profile-icon-name">Linkedin</div>
                       </div>
                     </div>
                   </div>
@@ -36,14 +35,14 @@ export default function Profile() {
                       <a href="">
                         <i className="flaticon-behance-logo"></i>
                       </a>
-                      <div className="profile-icon-name">behance</div>
+                      <div className="profile-icon-name">Twitter</div>
                     </div>
                     <div className="single-profile-overlay">
                       <div className="profile-txt">
                         <a href="">
                           <i className="flaticon-behance-logo"></i>
                         </a>
-                        <div className="profile-icon-name">behance</div>
+                        <div className="profile-icon-name">Twitter</div>
                       </div>
                     </div>
                   </div>
