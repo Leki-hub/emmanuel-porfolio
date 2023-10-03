@@ -1,5 +1,4 @@
 import React from "react";
-import Footer from "./footer";
 
 export default function Education() {
   const progressBarStyle = {
@@ -41,8 +40,8 @@ export default function Education() {
                       </h4>
                       <h5>Eastern Africa, Kenya</h5>
                       <p className="description">
-                        I graduated with a Bachelor of science in Actuarial science.
-                        The course is mainly about mathematical computations , with
+                        I graduated with a Bachelor of degree in Actuarial science.
+                        The course is mainly about  mathematical computations , with
                         some focus on programming.
                        I happened to have learned about <b>C</b> programming 
                        and <b>R</b> programming language for data science.
@@ -122,7 +121,7 @@ export default function Education() {
               <div className="col-md-6">
                 <div className="single-skill-content">
                   <div className="barWrapper">
-                    <span className="progressText">adobe photoshop</span>
+                    <span className="progressText">JavaScript</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
@@ -138,7 +137,7 @@ export default function Education() {
                     </div>
                   </div>
                   <div className="barWrapper">
-                    <span className="progressText">adobe illustrator</span>
+                    <span className="progressText">React</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
@@ -154,7 +153,7 @@ export default function Education() {
                     </div>
                   </div>
                   <div className="barWrapper">
-                    <span className="progressText">adobe after effects</span>
+                    <span className="progressText">HTML 5</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
@@ -170,7 +169,7 @@ export default function Education() {
                     </div>
                   </div>
                   <div className="barWrapper">
-                    <span className="progressText">sketch</span>
+                    <span className="progressText">CSS3</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
@@ -190,7 +189,7 @@ export default function Education() {
               <div className="col-md-6">
                 <div className="single-skill-content">
                   <div className="barWrapper">
-                    <span className="progressText">html 5</span>
+                    <span className="progressText">Material UI</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
@@ -206,7 +205,7 @@ export default function Education() {
                     </div>
                   </div>
                   <div className="barWrapper">
-                    <span className="progressText">css 3 animation</span>
+                    <span className="progressText">Python</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
