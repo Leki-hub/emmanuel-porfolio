@@ -24,8 +24,8 @@ export default function Navigation() {
 			                <li className=" smooth-menu active"></li>
 			                    <li className=" smooth-menu"><Link to="/education">education</Link></li>
 			                    <li className="smooth-menu"><Link to="/experience">experience</Link></li>
-			                    <li className="smooth-menu"><Link to="/profile">profile</Link></li>
-			                    <li className="smooth-menu"><Link to="/portfolio">portfolio</Link></li>
+								<li className="smooth-menu"><Link to="/portfolio">portfolio</Link></li>
+			                    <li className="smooth-menu"><Link to="/profile">profile</Link></li> 
 			                    <li className="smooth-menu"><Link to="/contact">contact</Link></li>
 			                </ul>
 			            </div>
