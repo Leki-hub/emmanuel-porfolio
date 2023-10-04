@@ -41,11 +41,7 @@
 	.main-timeline:before {left:0.4%;}
 
 	.single-horizontal-timeline .experience-time,.single-horizontal-timeline .timeline-content {margin: 0;}
-}/*max-width:991px*/
-
-@media screen and (max-width:768px){
-    
-}/*max-width:768px*/
+}
 
 @media screen and (max-width:767px){
 	.single-about-img {max-width: 450px;}
