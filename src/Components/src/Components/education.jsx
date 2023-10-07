@@ -1,15 +1,7 @@
 import React from "react";
+import Footer from "./footer";
 
 export default function Education() {
-  const progressBarStyle = {
-    background: '#b636ff',
-    borderRadius: '3px',
-    WebkitTransition: 'width 1.5s ease-in-out',
-    MsTransition: 'width 1.5s ease-in-out',
-    MozTransition: 'width 1.5s ease-in-out',
-    OTransition: 'width 1.5s ease-in-out',
-    transition: 'width 1.5s ease-in-out'
-  };
 
 
   return (
@@ -40,8 +32,8 @@ export default function Education() {
                       </h4>
                       <h5>Eastern Africa, Kenya</h5>
                       <p className="description">
-                        I graduated with a Bachelor of degree in Actuarial science.
-                        The course is mainly about  mathematical computations , with
+                        I graduated with a Bachelor of science in Actuarial science.
+                        The course is mainly about mathematical computations , with
                         some focus on programming.
                        I happened to have learned about <b>C</b> programming 
                        and <b>R</b> programming language for data science.
@@ -121,7 +113,7 @@ export default function Education() {
               <div className="col-md-6">
                 <div className="single-skill-content">
                   <div className="barWrapper">
-                    <span className="progressText">JavaScript</span>
+                    <span className="progressText">adobe photoshop</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
@@ -130,14 +122,14 @@ export default function Education() {
                           aria-valuenow="90"
                           aria-valuemin="10"
                           aria-valuemax="100"
-                          style={progressBarStyle}
+                        //   style={""}
                         ></div>
                       </div>
                       <h3>90%</h3>
                     </div>
                   </div>
                   <div className="barWrapper">
-                    <span className="progressText">React</span>
+                    <span className="progressText">adobe illustrator</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
@@ -153,7 +145,7 @@ export default function Education() {
                     </div>
                   </div>
                   <div className="barWrapper">
-                    <span className="progressText">HTML 5</span>
+                    <span className="progressText">adobe after effects</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
@@ -169,7 +161,7 @@ export default function Education() {
                     </div>
                   </div>
                   <div className="barWrapper">
-                    <span className="progressText">CSS3</span>
+                    <span className="progressText">sketch</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
@@ -189,7 +181,7 @@ export default function Education() {
               <div className="col-md-6">
                 <div className="single-skill-content">
                   <div className="barWrapper">
-                    <span className="progressText">Material UI</span>
+                    <span className="progressText">html 5</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div
@@ -205,7 +197,7 @@ export default function Education() {
                     </div>
                   </div>
                   <div className="barWrapper">
-                    <span className="progressText">Python</span>
+                    <span className="progressText">css 3 animation</span>
                     <div className="single-progress-txt">
                       <div className="progress ">
                         <div

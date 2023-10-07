@@ -7,7 +7,7 @@ export default function Footer() {
 			<div className="container">
 				<div className="hm-footer-copyright text-center">
 					<p>
-						&copy; copyright Leki. design and developed by <a href="https://github.com/Leki-hub" target='_blank'>Emmanuel</a>
+						&copy; copyright Leki. design and developed by <a href="https://github.com/Leki-hub">Emmanuel</a>
 					</p>
 				</div>
 			</div>

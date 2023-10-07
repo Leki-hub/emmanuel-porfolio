@@ -57,32 +57,31 @@ export default function Contact() {
 							<div className="single-contact-box">
 								<div className="contact-adress">
 									<div className="contact-add-head">
-										<h3>Leki Emmanuel</h3>
-										<p>Web developer</p>
+										<h3>browny star</h3>
+										<p>uI/uX designer</p>
 									</div>
 									<div className="contact-add-info">
 										<div className="single-contact-add-info">
 											<h3>phone</h3>
-											<p><a href="tel:+254784810509">Call Us</a></p>
-
+											<p>987-123-6547</p>
 										</div>
 										<div className="single-contact-add-info">
-										    <p>Email</p>
-											<a href="mailto:lekisintole82@gmail.com"><i>Send Email</i></a>
-
+											<h3>email</h3>
+											<p>browny@info.com</p>
 										</div>
 										<div className="single-contact-add-info">
 											<h3>website</h3>
-											<p><a href=''>www.leki.com</a></p>
+											<p>www.brownsine.com</p>
 										</div>
 									</div>
 								</div>
 								<div className="hm-foot-icon">
 									<ul>
-									    <li><a href="https://www.linkedin.com/in/leki-emmanuel-8b7540157/" target='_blank'><i className="fa fa-linkedin"></i></a></li>
-										<li><a href="https://twitter.com/Ole_Leki_E" target='_blank'><i className="fa fa-twitter"></i></a></li>
-										<li><a href="https://www.facebook.com/leki.lemmanuel" target='_blank'><i className="fa fa-facebook"></i></a></li>
-										
+										<li><a href="#"><i className="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i className="fa fa-dribbble"></i></a></li>
+										<li><a href="#"><i className="fa fa-twitter"></i></a></li>
+										<li><a href="#"><i className="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i className="fa fa-instagram"></i></a></li>
 									</ul>
 								</div>
 							</div>

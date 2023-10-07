@@ -66,7 +66,7 @@ export default function Home() {
                     <div className="col-sm-4">
                       <div className="single-about-add-info">
                         <h3>website</h3>
-                        <p>www.leki.com</p>
+                        <p>www.lekiemmanuel.com</p>
                       </div>
                     </div>
                   </div>
@@ -80,22 +80,31 @@ export default function Home() {
                   />
                   <div className="about-list-icon">
                     <ul>
-                     <li>
-                        <a href="https://www.linkedin.com/in/leki-emmanuel-8b7540157/" target="_blank">
-                          <i className="fa fa-linkedin" aria-hidden="true"></i>
+                      <li>
+                        <a href="#">
+                          <i className="fa fa-facebook" aria-hidden="true"></i>
                         </a>
                       </li>
                       <li>
-                        <a href="https://twitter.com/Ole_Leki_E" target="_blank" >
+                        <a href="#">
+                          <i className="fa fa-dribbble" aria-hidden="true"></i>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="#">
                           <i className="fa fa-twitter" aria-hidden="true"></i>
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.facebook.com/leki.lemmanuel" target="_blank">
-                          <i className="fa fa-facebook" aria-hidden="true"></i>
+                        <a href="#">
+                          <i className="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
                       </li>
-                    
+                      <li>
+                        <a href="#">
+                          <i className="fa fa-instagram" aria-hidden="true"></i>
+                        </a>
+                      </li>
                     </ul>
                   </div>
                 </div>
@@ -106,8 +115,8 @@ export default function Home() {
       </section>
       <Education />
       <Experience />
-      <Portfolio/>
       <Profile />
+      <Portfolio/>
       <Contact/>
     </>
   );
