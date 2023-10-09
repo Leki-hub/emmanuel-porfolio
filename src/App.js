@@ -11,6 +11,7 @@ import Experience from './Components/experience';
 function App() {
   return (
     <>
+    {/* we can use Hashrouter instead of BrowseRouter if want to have ease deploying on github pages where only static sites are supported */}
      <HashRouter>
      <Routes>
      <Route path="/" element={<Navigation/>} >
